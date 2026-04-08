@@ -1,5 +1,21 @@
-/* Lista */
-.habilidades ul {
-  list-style: none;
-  padding-left: 0;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #dbeafe, #f0f9ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container geral */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
