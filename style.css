@@ -21,7 +21,7 @@ body {
 }
 /* Card */
 .card {
-  background: #ffffff;
+  background: #fff0f5;
   width: 300px;
   border-radius: 20px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
