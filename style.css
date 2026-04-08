@@ -19,3 +19,17 @@ body {
   justify-content: center;
   align-items: center;
 }
+/* Card */
+.card {
+  background: #ffffff;
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
