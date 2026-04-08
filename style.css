@@ -33,6 +33,9 @@ body {
 .card:hover {
   transform: scale(1.05);
 }
+/* Imagem */
 .card img {
   width: 100%;
+  border-radius: 15px;
+  margin-bottom: 15px;
 }
